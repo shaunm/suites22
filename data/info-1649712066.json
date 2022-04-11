@@ -1,0 +1,2565 @@
+{
+    "timestamp": "1649712066",
+    "criterion": "suites with 5 singles",
+    "all": [
+        {
+            "building": "47 Claremont",
+            "suite": "47C_2",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "47C_2A",
+                "47C_2B",
+                "47C_2C",
+                "47C_2C",
+                "47C_2D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1004",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1004A",
+                "EC_1004A",
+                "EC_1004B",
+                "EC_1004C",
+                "EC_1004D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1006",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [
+                "mjs2407",
+                "cgf2118",
+                "esc2197",
+                "tjz2105",
+                "cs4014"
+            ],
+            "rooms": [
+                "EC_1006A",
+                "EC_1006B",
+                "EC_1006B",
+                "EC_1006C",
+                "EC_1006D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1008",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1008A",
+                "EC_1008A",
+                "EC_1008B",
+                "EC_1008C",
+                "EC_1008D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1010",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [
+                "tjb2171",
+                "ejf2178",
+                "bjb2182",
+                "wpd2107",
+                "bas2262"
+            ],
+            "rooms": [
+                "EC_1010A",
+                "EC_1010B",
+                "EC_1010B",
+                "EC_1010C",
+                "EC_1010D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1012",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1012A",
+                "EC_1012A",
+                "EC_1012B",
+                "EC_1012C",
+                "EC_1012D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1014",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1014A",
+                "EC_1014B",
+                "EC_1014B",
+                "EC_1014C",
+                "EC_1014D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1016",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1016A",
+                "EC_1016A",
+                "EC_1016B",
+                "EC_1016C",
+                "EC_1016D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1018",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1018A",
+                "EC_1018B",
+                "EC_1018B",
+                "EC_1018C",
+                "EC_1018D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1020",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_1020A",
+                "EC_1020B",
+                "EC_1020C",
+                "EC_1020D",
+                "EC_1020E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1204",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1204A",
+                "EC_1204A",
+                "EC_1204B",
+                "EC_1204C",
+                "EC_1204D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1206",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1206A",
+                "EC_1206B",
+                "EC_1206B",
+                "EC_1206C",
+                "EC_1206D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1208",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1208A",
+                "EC_1208A",
+                "EC_1208B",
+                "EC_1208C",
+                "EC_1208D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1210",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1210A",
+                "EC_1210B",
+                "EC_1210B",
+                "EC_1210C",
+                "EC_1210D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1212",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1212A",
+                "EC_1212A",
+                "EC_1212B",
+                "EC_1212C",
+                "EC_1212D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1214",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1214A",
+                "EC_1214B",
+                "EC_1214B",
+                "EC_1214C",
+                "EC_1214D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1216",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1216A",
+                "EC_1216A",
+                "EC_1216B",
+                "EC_1216C",
+                "EC_1216D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1220",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "els2237",
+                "mke2120",
+                "lwc2120",
+                "ao2733",
+                "ha2548"
+            ],
+            "rooms": [
+                "EC_1220A",
+                "EC_1220B",
+                "EC_1220C",
+                "EC_1220D",
+                "EC_1220E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1404",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1404A",
+                "EC_1404A",
+                "EC_1404B",
+                "EC_1404C",
+                "EC_1404D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1406",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [
+                "ncb2141",
+                "lp2846",
+                "mme2145",
+                "jgd2151",
+                "tjw2148"
+            ],
+            "rooms": [
+                "EC_1406A",
+                "EC_1406B",
+                "EC_1406B",
+                "EC_1406C",
+                "EC_1406D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1408",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1408A",
+                "EC_1408A",
+                "EC_1408B",
+                "EC_1408C",
+                "EC_1408D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1410",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1410A",
+                "EC_1410B",
+                "EC_1410B",
+                "EC_1410C",
+                "EC_1410D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1412",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1412A",
+                "EC_1412A",
+                "EC_1412B",
+                "EC_1412C",
+                "EC_1412D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1414",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1414A",
+                "EC_1414B",
+                "EC_1414B",
+                "EC_1414C",
+                "EC_1414D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1416",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1416A",
+                "EC_1416A",
+                "EC_1416B",
+                "EC_1416C",
+                "EC_1416D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1418",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1418A",
+                "EC_1418B",
+                "EC_1418B",
+                "EC_1418C",
+                "EC_1418D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1420",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "erl2150",
+                "vpd2108",
+                "cl3945",
+                "ars2321",
+                "eem2188"
+            ],
+            "rooms": [
+                "EC_1420A",
+                "EC_1420B",
+                "EC_1420C",
+                "EC_1420D",
+                "EC_1420E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1604",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1604A",
+                "EC_1604A",
+                "EC_1604B",
+                "EC_1604C",
+                "EC_1604D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1606",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1606A",
+                "EC_1606B",
+                "EC_1606B",
+                "EC_1606C",
+                "EC_1606D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1608",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1608A",
+                "EC_1608A",
+                "EC_1608B",
+                "EC_1608C",
+                "EC_1608D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1610",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1610A",
+                "EC_1610B",
+                "EC_1610B",
+                "EC_1610C",
+                "EC_1610D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1614",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1614A",
+                "EC_1614B",
+                "EC_1614B",
+                "EC_1614C",
+                "EC_1614D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1616",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1616A",
+                "EC_1616A",
+                "EC_1616B",
+                "EC_1616C",
+                "EC_1616D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1618",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1618A",
+                "EC_1618B",
+                "EC_1618B",
+                "EC_1618C",
+                "EC_1618D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1620",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "cmb2330",
+                "wph2106",
+                "cbc2162",
+                "sh3737",
+                "mws2170"
+            ],
+            "rooms": [
+                "EC_1620A",
+                "EC_1620B",
+                "EC_1620C",
+                "EC_1620D",
+                "EC_1620E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1804",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1804A",
+                "EC_1804A",
+                "EC_1804B",
+                "EC_1804C",
+                "EC_1804D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1806",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1806A",
+                "EC_1806B",
+                "EC_1806B",
+                "EC_1806C",
+                "EC_1806D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1808",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1808A",
+                "EC_1808A",
+                "EC_1808B",
+                "EC_1808C",
+                "EC_1808D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1810",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1810A",
+                "EC_1810B",
+                "EC_1810B",
+                "EC_1810C",
+                "EC_1810D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1812",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1812A",
+                "EC_1812A",
+                "EC_1812B",
+                "EC_1812C",
+                "EC_1812D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1814",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1814A",
+                "EC_1814B",
+                "EC_1814B",
+                "EC_1814C",
+                "EC_1814D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1816",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1816A",
+                "EC_1816A",
+                "EC_1816B",
+                "EC_1816C",
+                "EC_1816D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1818",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1818A",
+                "EC_1818B",
+                "EC_1818B",
+                "EC_1818C",
+                "EC_1818D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1820",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "sv2611",
+                "nea2130",
+                "kac2264",
+                "mm5588",
+                "jrr2201"
+            ],
+            "rooms": [
+                "EC_1820A",
+                "EC_1820B",
+                "EC_1820C",
+                "EC_1820D",
+                "EC_1820E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2004",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2004A",
+                "EC_2004A",
+                "EC_2004B",
+                "EC_2004C",
+                "EC_2004D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2006",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2006A",
+                "EC_2006B",
+                "EC_2006B",
+                "EC_2006C",
+                "EC_2006D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2008",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2008A",
+                "EC_2008A",
+                "EC_2008B",
+                "EC_2008C",
+                "EC_2008D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2010",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2010A",
+                "EC_2010B",
+                "EC_2010B",
+                "EC_2010C",
+                "EC_2010D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2012",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2012A",
+                "EC_2012A",
+                "EC_2012B",
+                "EC_2012C",
+                "EC_2012D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2014",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2014A",
+                "EC_2014B",
+                "EC_2014B",
+                "EC_2014C",
+                "EC_2014D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2016",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2016A",
+                "EC_2016A",
+                "EC_2016B",
+                "EC_2016C",
+                "EC_2016D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2018",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2018A",
+                "EC_2018B",
+                "EC_2018B",
+                "EC_2018C",
+                "EC_2018D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2020",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "hk2981",
+                "snb2156",
+                "of2197",
+                "kjz2112",
+                "al4012"
+            ],
+            "rooms": [
+                "EC_2020A",
+                "EC_2020B",
+                "EC_2020C",
+                "EC_2020D",
+                "EC_2020E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_804",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_804A",
+                "EC_804A",
+                "EC_804B",
+                "EC_804C",
+                "EC_804D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_806",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_806A",
+                "EC_806B",
+                "EC_806B",
+                "EC_806C",
+                "EC_806D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_808",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_808A",
+                "EC_808A",
+                "EC_808B",
+                "EC_808C",
+                "EC_808D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_810",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_810A",
+                "EC_810B",
+                "EC_810B",
+                "EC_810C",
+                "EC_810D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_812",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_812A",
+                "EC_812A",
+                "EC_812B",
+                "EC_812C",
+                "EC_812D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_814",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_814A",
+                "EC_814B",
+                "EC_814B",
+                "EC_814C",
+                "EC_814D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_816",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_816A",
+                "EC_816A",
+                "EC_816B",
+                "EC_816C",
+                "EC_816D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_818",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_818A",
+                "EC_818B",
+                "EC_818B",
+                "EC_818C",
+                "EC_818D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_820",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_820A",
+                "EC_820B",
+                "EC_820C",
+                "EC_820D",
+                "EC_820E"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2A1",
+                "HOG_2A2",
+                "HOG_2A3",
+                "HOG_2A4",
+                "HOG_2A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2C1",
+                "HOG_2C2",
+                "HOG_2C3",
+                "HOG_2C4",
+                "HOG_2C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3A1",
+                "HOG_3A2",
+                "HOG_3A3",
+                "HOG_3A4",
+                "HOG_3A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3C1",
+                "HOG_3C2",
+                "HOG_3C3",
+                "HOG_3C4",
+                "HOG_3C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4A1",
+                "HOG_4A2",
+                "HOG_4A3",
+                "HOG_4A4",
+                "HOG_4A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4C1",
+                "HOG_4C2",
+                "HOG_4C3",
+                "HOG_4C4",
+                "HOG_4C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5A1",
+                "HOG_5A2",
+                "HOG_5A3",
+                "HOG_5A4",
+                "HOG_5A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5C1",
+                "HOG_5C2",
+                "HOG_5C3",
+                "HOG_5C4",
+                "HOG_5C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6A1",
+                "HOG_6A2",
+                "HOG_6A3",
+                "HOG_6A4",
+                "HOG_6A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6C1",
+                "HOG_6C2",
+                "HOG_6C3",
+                "HOG_6C4",
+                "HOG_6C5"
+            ]
+        }
+    ],
+    "only_singles": [
+        {
+            "building": "East Campus",
+            "suite": "EC_1020",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_1020A",
+                "EC_1020B",
+                "EC_1020C",
+                "EC_1020D",
+                "EC_1020E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1220",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "els2237",
+                "mke2120",
+                "lwc2120",
+                "ao2733",
+                "ha2548"
+            ],
+            "rooms": [
+                "EC_1220A",
+                "EC_1220B",
+                "EC_1220C",
+                "EC_1220D",
+                "EC_1220E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1420",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "erl2150",
+                "vpd2108",
+                "cl3945",
+                "ars2321",
+                "eem2188"
+            ],
+            "rooms": [
+                "EC_1420A",
+                "EC_1420B",
+                "EC_1420C",
+                "EC_1420D",
+                "EC_1420E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1620",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "cmb2330",
+                "wph2106",
+                "cbc2162",
+                "sh3737",
+                "mws2170"
+            ],
+            "rooms": [
+                "EC_1620A",
+                "EC_1620B",
+                "EC_1620C",
+                "EC_1620D",
+                "EC_1620E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1820",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "sv2611",
+                "nea2130",
+                "kac2264",
+                "mm5588",
+                "jrr2201"
+            ],
+            "rooms": [
+                "EC_1820A",
+                "EC_1820B",
+                "EC_1820C",
+                "EC_1820D",
+                "EC_1820E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2020",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [
+                "hk2981",
+                "snb2156",
+                "of2197",
+                "kjz2112",
+                "al4012"
+            ],
+            "rooms": [
+                "EC_2020A",
+                "EC_2020B",
+                "EC_2020C",
+                "EC_2020D",
+                "EC_2020E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_820",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_820A",
+                "EC_820B",
+                "EC_820C",
+                "EC_820D",
+                "EC_820E"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2A1",
+                "HOG_2A2",
+                "HOG_2A3",
+                "HOG_2A4",
+                "HOG_2A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2C1",
+                "HOG_2C2",
+                "HOG_2C3",
+                "HOG_2C4",
+                "HOG_2C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3A1",
+                "HOG_3A2",
+                "HOG_3A3",
+                "HOG_3A4",
+                "HOG_3A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3C1",
+                "HOG_3C2",
+                "HOG_3C3",
+                "HOG_3C4",
+                "HOG_3C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4A1",
+                "HOG_4A2",
+                "HOG_4A3",
+                "HOG_4A4",
+                "HOG_4A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4C1",
+                "HOG_4C2",
+                "HOG_4C3",
+                "HOG_4C4",
+                "HOG_4C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5A1",
+                "HOG_5A2",
+                "HOG_5A3",
+                "HOG_5A4",
+                "HOG_5A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5C1",
+                "HOG_5C2",
+                "HOG_5C3",
+                "HOG_5C4",
+                "HOG_5C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6A1",
+                "HOG_6A2",
+                "HOG_6A3",
+                "HOG_6A4",
+                "HOG_6A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6C1",
+                "HOG_6C2",
+                "HOG_6C3",
+                "HOG_6C4",
+                "HOG_6C5"
+            ]
+        }
+    ],
+    "all_open": [
+        {
+            "building": "47 Claremont",
+            "suite": "47C_2",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "47C_2A",
+                "47C_2B",
+                "47C_2C",
+                "47C_2C",
+                "47C_2D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1004",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1004A",
+                "EC_1004A",
+                "EC_1004B",
+                "EC_1004C",
+                "EC_1004D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1008",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1008A",
+                "EC_1008A",
+                "EC_1008B",
+                "EC_1008C",
+                "EC_1008D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1012",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1012A",
+                "EC_1012A",
+                "EC_1012B",
+                "EC_1012C",
+                "EC_1012D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1014",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1014A",
+                "EC_1014B",
+                "EC_1014B",
+                "EC_1014C",
+                "EC_1014D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1016",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1016A",
+                "EC_1016A",
+                "EC_1016B",
+                "EC_1016C",
+                "EC_1016D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1018",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1018A",
+                "EC_1018B",
+                "EC_1018B",
+                "EC_1018C",
+                "EC_1018D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1020",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_1020A",
+                "EC_1020B",
+                "EC_1020C",
+                "EC_1020D",
+                "EC_1020E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1204",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1204A",
+                "EC_1204A",
+                "EC_1204B",
+                "EC_1204C",
+                "EC_1204D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1206",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1206A",
+                "EC_1206B",
+                "EC_1206B",
+                "EC_1206C",
+                "EC_1206D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1208",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1208A",
+                "EC_1208A",
+                "EC_1208B",
+                "EC_1208C",
+                "EC_1208D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1210",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1210A",
+                "EC_1210B",
+                "EC_1210B",
+                "EC_1210C",
+                "EC_1210D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1212",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1212A",
+                "EC_1212A",
+                "EC_1212B",
+                "EC_1212C",
+                "EC_1212D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1214",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1214A",
+                "EC_1214B",
+                "EC_1214B",
+                "EC_1214C",
+                "EC_1214D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1216",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1216A",
+                "EC_1216A",
+                "EC_1216B",
+                "EC_1216C",
+                "EC_1216D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1404",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1404A",
+                "EC_1404A",
+                "EC_1404B",
+                "EC_1404C",
+                "EC_1404D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1408",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1408A",
+                "EC_1408A",
+                "EC_1408B",
+                "EC_1408C",
+                "EC_1408D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1410",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1410A",
+                "EC_1410B",
+                "EC_1410B",
+                "EC_1410C",
+                "EC_1410D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1412",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1412A",
+                "EC_1412A",
+                "EC_1412B",
+                "EC_1412C",
+                "EC_1412D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1414",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1414A",
+                "EC_1414B",
+                "EC_1414B",
+                "EC_1414C",
+                "EC_1414D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1416",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1416A",
+                "EC_1416A",
+                "EC_1416B",
+                "EC_1416C",
+                "EC_1416D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1418",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1418A",
+                "EC_1418B",
+                "EC_1418B",
+                "EC_1418C",
+                "EC_1418D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1604",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1604A",
+                "EC_1604A",
+                "EC_1604B",
+                "EC_1604C",
+                "EC_1604D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1606",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1606A",
+                "EC_1606B",
+                "EC_1606B",
+                "EC_1606C",
+                "EC_1606D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1608",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1608A",
+                "EC_1608A",
+                "EC_1608B",
+                "EC_1608C",
+                "EC_1608D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1610",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1610A",
+                "EC_1610B",
+                "EC_1610B",
+                "EC_1610C",
+                "EC_1610D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1614",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1614A",
+                "EC_1614B",
+                "EC_1614B",
+                "EC_1614C",
+                "EC_1614D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1616",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1616A",
+                "EC_1616A",
+                "EC_1616B",
+                "EC_1616C",
+                "EC_1616D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1618",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1618A",
+                "EC_1618B",
+                "EC_1618B",
+                "EC_1618C",
+                "EC_1618D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1804",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1804A",
+                "EC_1804A",
+                "EC_1804B",
+                "EC_1804C",
+                "EC_1804D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1806",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1806A",
+                "EC_1806B",
+                "EC_1806B",
+                "EC_1806C",
+                "EC_1806D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1808",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1808A",
+                "EC_1808A",
+                "EC_1808B",
+                "EC_1808C",
+                "EC_1808D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1810",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1810A",
+                "EC_1810B",
+                "EC_1810B",
+                "EC_1810C",
+                "EC_1810D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1812",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1812A",
+                "EC_1812A",
+                "EC_1812B",
+                "EC_1812C",
+                "EC_1812D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1814",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1814A",
+                "EC_1814B",
+                "EC_1814B",
+                "EC_1814C",
+                "EC_1814D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1816",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1816A",
+                "EC_1816A",
+                "EC_1816B",
+                "EC_1816C",
+                "EC_1816D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_1818",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_1818A",
+                "EC_1818B",
+                "EC_1818B",
+                "EC_1818C",
+                "EC_1818D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2004",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2004A",
+                "EC_2004A",
+                "EC_2004B",
+                "EC_2004C",
+                "EC_2004D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2006",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2006A",
+                "EC_2006B",
+                "EC_2006B",
+                "EC_2006C",
+                "EC_2006D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2008",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2008A",
+                "EC_2008A",
+                "EC_2008B",
+                "EC_2008C",
+                "EC_2008D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2010",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2010A",
+                "EC_2010B",
+                "EC_2010B",
+                "EC_2010C",
+                "EC_2010D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2012",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2012A",
+                "EC_2012A",
+                "EC_2012B",
+                "EC_2012C",
+                "EC_2012D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2014",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2014A",
+                "EC_2014B",
+                "EC_2014B",
+                "EC_2014C",
+                "EC_2014D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2016",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2016A",
+                "EC_2016A",
+                "EC_2016B",
+                "EC_2016C",
+                "EC_2016D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_2018",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_2018A",
+                "EC_2018B",
+                "EC_2018B",
+                "EC_2018C",
+                "EC_2018D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_804",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_804A",
+                "EC_804A",
+                "EC_804B",
+                "EC_804C",
+                "EC_804D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_806",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_806A",
+                "EC_806B",
+                "EC_806B",
+                "EC_806C",
+                "EC_806D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_808",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_808A",
+                "EC_808A",
+                "EC_808B",
+                "EC_808C",
+                "EC_808D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_810",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_810A",
+                "EC_810B",
+                "EC_810B",
+                "EC_810C",
+                "EC_810D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_812",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_812A",
+                "EC_812A",
+                "EC_812B",
+                "EC_812C",
+                "EC_812D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_814",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_814A",
+                "EC_814B",
+                "EC_814B",
+                "EC_814C",
+                "EC_814D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_816",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_816A",
+                "EC_816A",
+                "EC_816B",
+                "EC_816C",
+                "EC_816D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_818",
+            "singles": 3,
+            "doubles": 2,
+            "persons": 8,
+            "occupants": [],
+            "rooms": [
+                "EC_818A",
+                "EC_818B",
+                "EC_818B",
+                "EC_818C",
+                "EC_818D"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_820",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_820A",
+                "EC_820B",
+                "EC_820C",
+                "EC_820D",
+                "EC_820E"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2A1",
+                "HOG_2A2",
+                "HOG_2A3",
+                "HOG_2A4",
+                "HOG_2A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2C1",
+                "HOG_2C2",
+                "HOG_2C3",
+                "HOG_2C4",
+                "HOG_2C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3A1",
+                "HOG_3A2",
+                "HOG_3A3",
+                "HOG_3A4",
+                "HOG_3A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3C1",
+                "HOG_3C2",
+                "HOG_3C3",
+                "HOG_3C4",
+                "HOG_3C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4A1",
+                "HOG_4A2",
+                "HOG_4A3",
+                "HOG_4A4",
+                "HOG_4A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4C1",
+                "HOG_4C2",
+                "HOG_4C3",
+                "HOG_4C4",
+                "HOG_4C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5A1",
+                "HOG_5A2",
+                "HOG_5A3",
+                "HOG_5A4",
+                "HOG_5A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5C1",
+                "HOG_5C2",
+                "HOG_5C3",
+                "HOG_5C4",
+                "HOG_5C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6A1",
+                "HOG_6A2",
+                "HOG_6A3",
+                "HOG_6A4",
+                "HOG_6A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6C1",
+                "HOG_6C2",
+                "HOG_6C3",
+                "HOG_6C4",
+                "HOG_6C5"
+            ]
+        }
+    ],
+    "singles_open": [
+        {
+            "building": "East Campus",
+            "suite": "EC_1020",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_1020A",
+                "EC_1020B",
+                "EC_1020C",
+                "EC_1020D",
+                "EC_1020E"
+            ]
+        },
+        {
+            "building": "East Campus",
+            "suite": "EC_820",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "EC_820A",
+                "EC_820B",
+                "EC_820C",
+                "EC_820D",
+                "EC_820E"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2A1",
+                "HOG_2A2",
+                "HOG_2A3",
+                "HOG_2A4",
+                "HOG_2A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_2C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_2C1",
+                "HOG_2C2",
+                "HOG_2C3",
+                "HOG_2C4",
+                "HOG_2C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3A1",
+                "HOG_3A2",
+                "HOG_3A3",
+                "HOG_3A4",
+                "HOG_3A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_3C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_3C1",
+                "HOG_3C2",
+                "HOG_3C3",
+                "HOG_3C4",
+                "HOG_3C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4A1",
+                "HOG_4A2",
+                "HOG_4A3",
+                "HOG_4A4",
+                "HOG_4A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_4C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_4C1",
+                "HOG_4C2",
+                "HOG_4C3",
+                "HOG_4C4",
+                "HOG_4C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5A1",
+                "HOG_5A2",
+                "HOG_5A3",
+                "HOG_5A4",
+                "HOG_5A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_5C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_5C1",
+                "HOG_5C2",
+                "HOG_5C3",
+                "HOG_5C4",
+                "HOG_5C5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6A",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6A1",
+                "HOG_6A2",
+                "HOG_6A3",
+                "HOG_6A4",
+                "HOG_6A5"
+            ]
+        },
+        {
+            "building": "Hogan",
+            "suite": "HOG_6C",
+            "singles": 5,
+            "doubles": 0,
+            "persons": 10,
+            "occupants": [],
+            "rooms": [
+                "HOG_6C1",
+                "HOG_6C2",
+                "HOG_6C3",
+                "HOG_6C4",
+                "HOG_6C5"
+            ]
+        }
+    ]
+}
