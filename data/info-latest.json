@@ -1,5 +1,5 @@
 {
-    "timestamp": "1649708350",
+    "timestamp": "1649709735",
     "criterion": "suites with 5 singles",
     "all": [
         {
@@ -416,7 +416,13 @@
             "singles": 5,
             "doubles": 0,
             "persons": 10,
-            "occupants": [],
+            "occupants": [
+                "erl2150",
+                "vpd2108",
+                "cl3945",
+                "ars2321",
+                "eem2188"
+            ],
             "rooms": [
                 "EC_1420A",
                 "EC_1420B",
@@ -1156,7 +1162,13 @@
             "singles": 5,
             "doubles": 0,
             "persons": 10,
-            "occupants": [],
+            "occupants": [
+                "erl2150",
+                "vpd2108",
+                "cl3945",
+                "ars2321",
+                "eem2188"
+            ],
             "rooms": [
                 "EC_1420A",
                 "EC_1420B",
@@ -1738,21 +1750,6 @@
                 "EC_1418B",
                 "EC_1418C",
                 "EC_1418D"
-            ]
-        },
-        {
-            "building": "East Campus",
-            "suite": "EC_1420",
-            "singles": 5,
-            "doubles": 0,
-            "persons": 10,
-            "occupants": [],
-            "rooms": [
-                "EC_1420A",
-                "EC_1420B",
-                "EC_1420C",
-                "EC_1420D",
-                "EC_1420E"
             ]
         },
         {
@@ -2415,21 +2412,6 @@
                 "EC_1220C",
                 "EC_1220D",
                 "EC_1220E"
-            ]
-        },
-        {
-            "building": "East Campus",
-            "suite": "EC_1420",
-            "singles": 5,
-            "doubles": 0,
-            "persons": 10,
-            "occupants": [],
-            "rooms": [
-                "EC_1420A",
-                "EC_1420B",
-                "EC_1420C",
-                "EC_1420D",
-                "EC_1420E"
             ]
         },
         {
