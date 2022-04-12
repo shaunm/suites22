@@ -1,5 +1,5 @@
 {
-    "timestamp": "1649717296",
+    "timestamp": "1649726067",
     "criterion": "suites with 5 singles",
     "all": [
         {
@@ -509,7 +509,13 @@
             "singles": 3,
             "doubles": 2,
             "persons": 8,
-            "occupants": [],
+            "occupants": [
+                "amn2198",
+                "min2110",
+                "lsc2161",
+                "su2237",
+                "nmr2154"
+            ],
             "rooms": [
                 "EC_1614A",
                 "EC_1614B",
@@ -1804,21 +1810,6 @@
                 "EC_1610B",
                 "EC_1610C",
                 "EC_1610D"
-            ]
-        },
-        {
-            "building": "East Campus",
-            "suite": "EC_1614",
-            "singles": 3,
-            "doubles": 2,
-            "persons": 8,
-            "occupants": [],
-            "rooms": [
-                "EC_1614A",
-                "EC_1614B",
-                "EC_1614B",
-                "EC_1614C",
-                "EC_1614D"
             ]
         },
         {
